@@ -21,7 +21,7 @@ These are the projects that I've created in my first year of being a student. It
 - Community Science Center
 - A & K's Travel Blog 
 
-### Contact 
+### Contact 📞
 
 Feel free to contact me through these: 
 
