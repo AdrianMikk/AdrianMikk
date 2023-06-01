@@ -15,7 +15,7 @@ These are the projects that I've created in my first year of being a student. It
 
 ![html-5](https://github.com/AdrianMikk/VSCode-RainyDays/assets/113434165/8fb2aa03-f7f8-4701-8481-b00221327aec) ![css-3](https://github.com/AdrianMikk/VSCode-RainyDays/assets/113434165/1d539a3b-d387-4648-a97f-fe7d2b731a30) ![js](https://github.com/AdrianMikk/VSCode-RainyDays/assets/113434165/11485099-25f3-4fb5-aedb-eb0d1b25e576) ![figma](https://github.com/AdrianMikk/VSCode-RainyDays/assets/113434165/58f8d8ec-3e48-46d0-b361-9174930a3648)
 
-### My Projects 
+### My Projects 📚
 
 - Rainy Days: 
 - Community Science Center
