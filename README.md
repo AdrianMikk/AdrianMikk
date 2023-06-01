@@ -1,5 +1,7 @@
 # About Me 
 
+![aboutme](https://github.com/AdrianMikk/VSCode-RainyDays/assets/113434165/0f11a065-1753-4db3-b3e5-4e52e28bb860)
+
 ## Hi there 👋
 ## Welcome to my Github Profile!
 
