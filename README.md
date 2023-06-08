@@ -19,9 +19,10 @@ These are the projects that I've created in my first year of being a student. It
 
 ## My Projects 📚
 
-- Rainy Days : https://courageous-gelato-250ccd.netlify.app/
-- Community Science Center : https://animated-kashata-474c4e.netlify.app/
-- A & K's Travel Blog : https://polite-bonbon-b608b5.netlify.app/
+* [Rainy Days](https://courageous-gelato-250ccd.netlify.app/)
+* [Community Science Center](https://animated-kashata-474c4e.netlify.app/)
+* [A & K's Travel Blog](https://polite-bonbon-b608b5.netlify.app/)
+* [Portfolio](https://adrianmikk-portfolio.netlify.app/)
 
 ## Contact 📞
 
